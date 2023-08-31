@@ -1,0 +1,24 @@
+.card{
+    background-color: white;
+    margin-top:15px;
+    margin-bottom: 15px;
+    border-radius: 8px;
+    border:1px solid transparent;
+    height: auto; 
+}
+.panelName{
+    font-size: 15px;
+    margin-top: 5px;
+
+}
+.iconD{
+    float:right;
+    color:red;
+    cursor: pointer;
+}
+.iconU{
+    float: right;
+    margin-right:10px;
+    color:blue;
+    cursor: pointer;
+}
